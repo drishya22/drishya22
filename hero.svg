@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-label="Drishya Garg — Software Engineer, AI and Backend Systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/><stop offset="0.52" stop-color="#0b1024"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="0.5" stop-color="#a371f7"/><stop offset="1" stop-color="#39d353"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity="0.45"/></filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+  <circle cx="910" cy="105" r="210" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="1030" cy="250" r="130" fill="#a371f7" opacity="0.09" filter="url(#blur)"/>
+
+  <g opacity="0.7" fill="none" stroke="url(#accent)">
+    <path d="M720 72 C830 20 950 45 1080 105 S1160 205 1190 280" stroke-width="1.5"/>
+    <path d="M690 105 C820 65 920 85 1035 145 S1135 235 1175 300" stroke-width="1" stroke-dasharray="4 8"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="48" y="42" width="360" height="34" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="68" cy="59" r="5" fill="#ff5f56"/><circle cx="86" cy="59" r="5" fill="#ffbd2e"/><circle cx="104" cy="59" r="5" fill="#27c93f"/>
+    <text x="124" y="64" fill="#8b949e" font-family="monospace" font-size="13">drishya22@github: ~</text>
+  </g>
+
+  <text x="52" y="145" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">DRISHYA GARG</text>
+  <rect x="53" y="164" width="330" height="3" rx="2" fill="url(#accent)"/>
+  <text x="52" y="202" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="20">Software Engineer  ·  AI  ·  Backend Systems</text>
+  <text x="52" y="234" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="15">B.Tech CSE @ MSIT  ·  BS Data Science @ IIT Madras</text>
+
+  <g font-family="monospace" font-size="13">
+    <rect x="52" y="263" width="145" height="30" rx="15" fill="#58a6ff" fill-opacity="0.10" stroke="#58a6ff" stroke-opacity="0.45"/>
+    <text x="72" y="283" fill="#79c0ff">AI / ML</text>
+    <rect x="207" y="263" width="170" height="30" rx="15" fill="#a371f7" fill-opacity="0.10" stroke="#a371f7" stroke-opacity="0.45"/>
+    <text x="227" y="283" fill="#d2a8ff">APIs / Systems</text>
+    <rect x="387" y="263" width="145" height="30" rx="15" fill="#39d353" fill-opacity="0.10" stroke="#39d353" stroke-opacity="0.45"/>
+    <text x="407" y="283" fill="#56d364">Build / Learn</text>
+  </g>
+
+  <g transform="translate(770 165)">
+    <circle cx="0" cy="0" r="76" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="0" cy="0" r="54" fill="none" stroke="#58a6ff" stroke-opacity="0.35" stroke-dasharray="3 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="28" fill="#58a6ff" opacity="0.13"/>
+    <text x="0" y="5" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="14">BUILD()</text>
+    <g font-family="monospace" font-size="11" text-anchor="middle">
+      <text x="0" y="-94" fill="#79c0ff">AI</text><text x="94" y="4" fill="#d2a8ff">API</text><text x="0" y="103" fill="#56d364">DATA</text><text x="-94" y="4" fill="#ff7b72">ML</text>
+    </g>
+  </g>
+
+  <text x="1100" y="310" text-anchor="end" fill="#484f58" font-family="monospace" font-size="11">curious mind • systems thinker • work in progress</text>
+</svg>
