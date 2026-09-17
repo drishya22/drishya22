@@ -4,16 +4,16 @@
 
 <br />
 
-<a href="https://linkedin.com/in/drishyag22/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/drishya22"><img src="https://img.shields.io/badge/GITHUB-Explore-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/drishya22/"><img src="https://img.shields.io/badge/LEETCODE-675%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.kaggle.com/drishya23f3001900"><img src="https://img.shields.io/badge/KAGGLE-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://huggingface.co/drishya23f3001900"><img src="https://img.shields.io/badge/HUGGING%20FACE-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" /></a>
-<a href="https://medium.com/@drishyagarg22"><img src="https://img.shields.io/badge/MEDIUM-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://linkedin.com/in/drishyag22/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2" /></a>
+<a href="https://github.com/drishya22"><img src="https://img.shields.io/badge/GITHUB-Explore-161B22" /></a>
+<a href="https://leetcode.com/u/drishya22/"><img src="https://img.shields.io/badge/LEETCODE-675%2B%20Solved-FFA116" /></a>
+<a href="https://www.kaggle.com/drishya23f3001900"><img src="https://img.shields.io/badge/KAGGLE-Explore-20BEFF" /></a>
+<a href="https://huggingface.co/drishya23f3001900"><img src="https://img.shields.io/badge/HUGGING%20FACE-Models-FFD21E" /></a>
+<a href="https://medium.com/@drishyagarg22"><img src="https://img.shields.io/badge/MEDIUM-Read-12100E" /></a>
 
 <br /><br />
 
-### Building intelligent software at the intersection of **AI, backend engineering & data**.
+### Building intelligent software at the intersection of **AI, backend engineering and data**.
 
 **Problem → Architecture → Implementation → Evaluation → Deployment**
 
@@ -39,7 +39,7 @@
 
 | 🎓 EDUCATION | 🧠 PROBLEM SOLVING | ☁️ AI | 🧑‍🏫 TEACHING |
 |:---:|:---:|:---:|:---:|
-| **9.45** MSIT CGPA | **675+** LeetCode | **AWS AI & ML Scholars** | **IIT Madras Mentor** |
+| **9.45** MSIT CGPA | **675+** LeetCode | **AWS AI and ML Scholars** | **IIT Madras Mentor** |
 | B.Tech CSE + BS Data Science | DSA / CP | Nanodegree phase | Mathematics for Data Science |
 
 </div>
@@ -91,7 +91,7 @@ Semantic photo search, categorization, face grouping and duplicate detection usi
 ### 🤖 AI Web App Generator
 **LLM + automation**
 
-A backend workflow that turns natural-language requirements into generated web applications and automates repository/deployment workflows.
+A backend workflow that turns natural-language requirements into generated web applications and automates repository and deployment workflows.
 
 `FastAPI` `LLMs` `GitHub API` `Pydantic`
 
@@ -124,13 +124,13 @@ A transformer-based ranking system exploring TF-IDF, BiLSTM+Attention, DistilBER
 ## 🛠️ Engineering stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,fastapi,flask,pytorch,postgres,sqlite,redis,docker,git,github,linux&perline=7" width="90%" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,fastapi,flask,pytorch,postgres,sqlite,redis,docker,git,github,linux" width="90%" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/AI%2FML-Transformers%20%7C%20NLP%20%7C%20Computer%20Vision%20%7C%20Embeddings-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-REST%20APIs%20%7C%20SQLAlchemy%20%7C%20Celery-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Gemini%20%7C%20OpenAI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%2FML-Transformers%20%7C%20NLP%20%7C%20Computer%20Vision%20%7C%20Embeddings-111827" />
+<img src="https://img.shields.io/badge/Backend-REST%20APIs%20%7C%20SQLAlchemy%20%7C%20Celery-111827" />
+<img src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Gemini%20%7C%20OpenAI-111827" />
 </div>
 
 ---
@@ -190,10 +190,10 @@ The questions I increasingly care about are **retrieval quality, model evaluatio
 ## 🎓 Beyond the code
 
 - **B.Tech Computer Science Engineering** — Maharaja Surajmal Institute of Technology · **9.45 CGPA**
-- **BS Data Science & Applications** — IIT Madras
+- **BS Data Science and Applications** — IIT Madras
 - **Course Mentor** — IIT Madras, Mathematics for Data Science
 - **Software Engineering Fellow (AI)** — HeadStarter AI
-- **AWS AI & ML Scholars** — selected for the Nanodegree phase
+- **AWS AI and ML Scholars** — selected for the Nanodegree phase
 - **675+ LeetCode problems** across data structures and algorithms
 
 ---
@@ -220,12 +220,12 @@ The questions I increasingly care about are **retrieval quality, model evaluatio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishyag22/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drishya22)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/drishya22/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/drishya23f3001900)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/drishya23f3001900)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@drishyagarg22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/drishyag22/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717)](https://github.com/drishya22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116)](https://leetcode.com/u/drishya22/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF)](https://www.kaggle.com/drishya23f3001900)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E)](https://huggingface.co/drishya23f3001900)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E)](https://medium.com/@drishyagarg22)
 
 </div>
 
