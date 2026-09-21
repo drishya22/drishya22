@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1390" role="img" aria-labelledby="title desc">
+  <title id="title">Drishya Garg — engineering profile dashboard</title>
+  <desc id="desc">A dark, polished engineering dashboard showing Drishya Garg's profile, education, selected projects, technical stack, journey and current focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050914"/><stop offset="0.5" stop-color="#081326"/><stop offset="1" stop-color="#0d1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#53c7ff"/><stop offset="0.5" stop-color="#9d7cff"/><stop offset="1" stop-color="#62e6a7"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#806cff"/><stop offset="1" stop-color="#d66cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#4ebcff" stop-opacity=".20"/><stop offset="1" stop-color="#4ebcff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="1390" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="1390" rx="28" fill="url(#grid)"/>
+  <circle cx="1000" cy="130" r="270" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="220" cy="950" r="230" fill="#7a63ff" opacity=".07" filter="url(#soft)"/>
+
+  <!-- HEADER -->
+  <rect x="22" y="22" width="1156" height="315" rx="24" fill="#07101f" stroke="#284260"/>
+  <path d="M700 40 C830 5 1010 35 1160 115" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".45"/>
+  <path d="M670 90 C850 45 1010 95 1170 190" fill="none" stroke="#8b78ff" stroke-width="1" stroke-dasharray="5 9" opacity=".35"/>
+
+  <text x="54" y="69" fill="#aab9ca" font-family="Arial, Helvetica, sans-serif" font-size="18">Hi, I am</text>
+  <text x="52" y="122" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="800" letter-spacing="-2">DRISHYA GARG</text>
+  <rect x="54" y="142" width="385" height="4" rx="2" fill="url(#accent)"/>
+  <text x="54" y="184" fill="#e8eef7" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Software Engineer  ·  AI / ML  ·  Backend Systems</text>
+  <text x="54" y="214" fill="#91a2b7" font-family="Arial, Helvetica, sans-serif" font-size="15">Building with AI. Learning every day. Solving real problems.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <rect x="54" y="239" width="104" height="31" rx="15" fill="#53c7ff" fill-opacity=".09" stroke="#53c7ff" stroke-opacity=".55"/>
+    <text x="106" y="259" text-anchor="middle" fill="#8bdcff">AI / ML</text>
+    <rect x="168" y="239" width="128" height="31" rx="15" fill="#9d7cff" fill-opacity=".09" stroke="#9d7cff" stroke-opacity=".55"/>
+    <text x="232" y="259" text-anchor="middle" fill="#c5b5ff">Backend APIs</text>
+    <rect x="306" y="239" width="120" height="31" rx="15" fill="#62e6a7" fill-opacity=".09" stroke="#62e6a7" stroke-opacity=".55"/>
+    <text x="366" y="259" text-anchor="middle" fill="#8df0bd">Data Systems</text>
+    <rect x="436" y="239" width="125" height="31" rx="15" fill="#ff9f66" fill-opacity=".09" stroke="#ff9f66" stroke-opacity=".55"/>
+    <text x="498" y="259" text-anchor="middle" fill="#ffc09a">Problem Solving</text>
+  </g>
+
+  <!-- terminal illustration -->
+  <g transform="translate(720 78)" filter="url(#shadow)">
+    <rect width="390" height="190" rx="16" fill="#0a111d" stroke="#334861"/>
+    <rect width="390" height="34" rx="16" fill="#101b2a"/>
+    <circle cx="22" cy="17" r="5" fill="#ff6b6b"/><circle cx="40" cy="17" r="5" fill="#ffd166"/><circle cx="58" cy="17" r="5" fill="#64e572"/>
+    <text x="82" y="22" fill="#7f91a7" font-family="monospace" font-size="12">drishya@github: ~/build</text>
+    <text x="24" y="65" fill="#62e6a7" font-family="monospace" font-size="13">$ ./engineering_loop</text>
+    <text x="24" y="91" fill="#d6e0ec" font-family="monospace" font-size="13">&gt; define_problem()</text>
+    <text x="24" y="116" fill="#d6e0ec" font-family="monospace" font-size="13">&gt; design_system()</text>
+    <text x="24" y="141" fill="#d6e0ec" font-family="monospace" font-size="13">&gt; build_and_measure()</text>
+    <text x="24" y="166" fill="#8b7cff" font-family="monospace" font-size="13">&gt; understand_and_repeat()</text>
+  </g>
+
+  <text x="55" y="307" fill="#b9c7d7" font-family="Georgia, serif" font-size="18" font-style="italic">“A curious mind, a keyboard, and a belief that technology can make a positive impact.”</text>
+
+  <!-- ABOUT / SIGNALS -->
+  <rect x="22" y="357" width="570" height="300" rx="20" fill="#08111f" stroke="#284260"/>
+  <rect x="610" y="357" width="568" height="300" rx="20" fill="#08111f" stroke="#284260"/>
+  <text x="48" y="396" fill="#66d5ff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800">ABOUT ME</text>
+  <text x="48" y="427" fill="#dce7f4" font-family="Arial, Helvetica, sans-serif" font-size="15">I am a Computer Science and Data Science undergraduate</text>
+  <text x="48" y="449" fill="#dce7f4" font-family="Arial, Helvetica, sans-serif" font-size="15">focused on AI-powered products, scalable backend systems</text>
+  <text x="48" y="471" fill="#dce7f4" font-family="Arial, Helvetica, sans-serif" font-size="15">and real-world problem solving.</text>
+  <line x1="48" y1="490" x2="560" y2="490" stroke="#263b54"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <circle cx="61" cy="516" r="5" fill="#53c7ff"/><text x="78" y="521" fill="#c9d6e5">B.Tech CSE @ MSIT  ·  <tspan fill="#fff" font-weight="700">9.45 CGPA</tspan></text>
+    <circle cx="61" cy="546" r="5" fill="#9d7cff"/><text x="78" y="551" fill="#c9d6e5">BS Data Science @ IIT Madras</text>
+    <circle cx="61" cy="576" r="5" fill="#62e6a7"/><text x="78" y="581" fill="#c9d6e5">AWS AI and ML Scholars  ·  Nanodegree phase</text>
+    <circle cx="61" cy="606" r="5" fill="#ff9f66"/><text x="78" y="611" fill="#c9d6e5">Course Mentor @ IIT Madras</text>
+    <circle cx="61" cy="636" r="5" fill="#ff7ccf"/><text x="78" y="641" fill="#c9d6e5">675+ LeetCode problems</text>
+  </g>
+
+  <text x="636" y="396" fill="#66d5ff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800">ENGINEERING SIGNALS</text>
+  <g filter="url(#shadow)">
+    <rect x="636" y="417" width="158" height="86" rx="14" fill="#0b1727" stroke="#29415e"/>
+    <rect x="810" y="417" width="158" height="86" rx="14" fill="#0b1727" stroke="#29415e"/>
+    <rect x="984" y="417" width="158" height="86" rx="14" fill="#0b1727" stroke="#29415e"/>
+  </g>
+  <text x="715" y="450" text-anchor="middle" fill="#66d5ff" font-family="Arial" font-size="26" font-weight="800">9.45</text>
+  <text x="715" y="476" text-anchor="middle" fill="#8fa3ba" font-family="Arial" font-size="12">MSIT CGPA</text>
+  <text x="889" y="450" text-anchor="middle" fill="#b99cff" font-family="Arial" font-size="26" font-weight="800">9.07</text>
+  <text x="889" y="476" text-anchor="middle" fill="#8fa3ba" font-family="Arial" font-size="12">IIT MADRAS CGPA</text>
+  <text x="1063" y="450" text-anchor="middle" fill="#7ff0b5" font-family="Arial" font-size="26" font-weight="800">675+</text>
+  <text x="1063" y="476" text-anchor="middle" fill="#8fa3ba" font-family="Arial" font-size="12">LEETCODE</text>
+
+  <text x="636" y="539" fill="#e8eef7" font-family="Arial" font-size="14" font-weight="700">What I care about</text>
+  <g font-family="monospace" font-size="12">
+    <rect x="636" y="554" width="108" height="27" rx="13" fill="#53c7ff" fill-opacity=".08" stroke="#53c7ff" stroke-opacity=".35"/><text x="690" y="572" text-anchor="middle" fill="#9bdfff">evaluation</text>
+    <rect x="752" y="554" width="108" height="27" rx="13" fill="#9d7cff" fill-opacity=".08" stroke="#9d7cff" stroke-opacity=".35"/><text x="806" y="572" text-anchor="middle" fill="#c8b9ff">retrieval</text>
+    <rect x="868" y="554" width="108" height="27" rx="13" fill="#62e6a7" fill-opacity=".08" stroke="#62e6a7" stroke-opacity=".35"/><text x="922" y="572" text-anchor="middle" fill="#9cf2c2">APIs</text>
+    <rect x="984" y="554" width="158" height="27" rx="13" fill="#ff9f66" fill-opacity=".08" stroke="#ff9f66" stroke-opacity=".35"/><text x="1063" y="572" text-anchor="middle" fill="#ffc19c">reliability / trade-offs</text>
+  </g>
+  <text x="636" y="620" fill="#8498ae" font-family="Arial" font-size="13">The goal: useful software, measurable results, and systems I actually understand.</text>
+
+  <!-- FEATURED PROJECTS -->
+  <text x="22" y="699" fill="#66d5ff" font-family="Arial" font-size="21" font-weight="800">FEATURED PROJECTS</text>
+  <text x="1160" y="699" text-anchor="end" fill="#7890a8" font-family="Arial" font-size="12">selected engineering work</text>
+
+  <g filter="url(#shadow)">
+    <rect x="22" y="718" width="558" height="142" rx="18" fill="#08111f" stroke="#29415e"/>
+    <rect x="600" y="718" width="578" height="142" rx="18" fill="#08111f" stroke="#29415e"/>
+    <rect x="22" y="875" width="558" height="142" rx="18" fill="#08111f" stroke="#29415e"/>
+    <rect x="600" y="875" width="578" height="142" rx="18" fill="#08111f" stroke="#29415e"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="52" cy="750" r="13" fill="#1b6f8d"/><text x="52" y="755" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">P</text>
+    <text x="76" y="754" fill="#9adfff" font-size="17" font-weight="800">Payment Recovery Intelligence</text>
+    <text x="46" y="782" fill="#b6c5d6" font-size="13">AI recommendations with deterministic policy boundaries,</text>
+    <text x="46" y="802" fill="#b6c5d6" font-size="13">backend workflows, impact analysis and auditability.</text>
+    <text x="46" y="836" fill="#71869d" font-family="monospace" font-size="11">FastAPI  ·  ML  ·  AI reasoning  ·  decision systems</text>
+
+    <circle cx="630" cy="750" r="13" fill="#197b77"/><text x="630" y="755" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">V</text>
+    <text x="654" y="754" fill="#9adfff" font-size="17" font-weight="800">AI Photo Management</text>
+    <text x="624" y="782" fill="#b6c5d6" font-size="13">Semantic search, categorization, face grouping and</text>
+    <text x="624" y="802" fill="#b6c5d6" font-size="13">duplicate detection using CLIP and vector retrieval.</text>
+    <text x="624" y="836" fill="#71869d" font-family="monospace" font-size="11">FastAPI  ·  CLIP  ·  ChromaDB  ·  Computer Vision</text>
+
+    <circle cx="52" cy="907" r="13" fill="#7257a8"/><text x="52" y="912" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">A</text>
+    <text x="76" y="911" fill="#c2b2ff" font-size="17" font-weight="800">AI Web App Generator</text>
+    <text x="46" y="939" fill="#b6c5d6" font-size="13">Natural-language requirements → generated applications,</text>
+    <text x="46" y="959" fill="#b6c5d6" font-size="13">repository automation and deployment workflows.</text>
+    <text x="46" y="993" fill="#71869d" font-family="monospace" font-size="11">FastAPI  ·  LLMs  ·  GitHub API  ·  automation</text>
+
+    <circle cx="630" cy="907" r="13" fill="#9b6b2f"/><text x="630" y="912" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">M</text>
+    <text x="654" y="911" fill="#ffc48d" font-size="17" font-weight="800">Smart MCQ Solver</text>
+    <text x="624" y="939" fill="#b6c5d6" font-size="13">Transformer-based ranking experiments with explicit</text>
+    <text x="624" y="959" fill="#b6c5d6" font-size="13">MAP@3 evaluation and an ongoing RAG extension.</text>
+    <text x="624" y="993" fill="#71869d" font-family="monospace" font-size="11">PyTorch  ·  DeBERTa  ·  NLP  ·  RAG  ·  evaluation</text>
+  </g>
+
+  <!-- JOURNEY / CURRENT -->
+  <rect x="22" y="1040" width="760" height="268" rx="20" fill="#08111f" stroke="#284260"/>
+  <rect x="804" y="1040" width="374" height="268" rx="20" fill="#08111f" stroke="#284260"/>
+  <text x="48" y="1080" fill="#66d5ff" font-family="Arial" font-size="21" font-weight="800">MY JOURNEY</text>
+  <path d="M83 1110 V1260" stroke="url(#accent)" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="83" cy="1122" r="9" fill="#53c7ff"/><text x="110" y="1127" fill="#fff" font-size="14" font-weight="700">2023</text><text x="174" y="1127" fill="#c5d2df" font-size="13">Started the dual-degree journey</text>
+    <circle cx="83" cy="1160" r="9" fill="#9d7cff"/><text x="110" y="1165" fill="#fff" font-size="14" font-weight="700">2024</text><text x="174" y="1165" fill="#c5d2df" font-size="13">Explored AI / ML and backend engineering</text>
+    <circle cx="83" cy="1198" r="9" fill="#62e6a7"/><text x="110" y="1203" fill="#fff" font-size="14" font-weight="700">2025</text><text x="174" y="1203" fill="#c5d2df" font-size="13">Built real-world AI projects and mentored</text>
+    <circle cx="83" cy="1236" r="9" fill="#ff9f66"/><text x="110" y="1241" fill="#fff" font-size="14" font-weight="700">2026</text><text x="174" y="1241" fill="#c5d2df" font-size="13">AWS AI and ML Scholars · deeper systems focus</text>
+    <circle cx="83" cy="1274" r="9" fill="#d66cff"/><text x="110" y="1279" fill="#fff" font-size="14" font-weight="700">NEXT</text><text x="174" y="1279" fill="#c5d2df" font-size="13">Build · learn · contribute · repeat</text>
+  </g>
+
+  <text x="830" y="1080" fill="#66d5ff" font-family="Arial" font-size="21" font-weight="800">CURRENTLY</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <circle cx="833" cy="1116" r="5" fill="#ff9f66"/><text x="850" y="1121" fill="#d2dce8">Preparing for interviews</text>
+    <circle cx="833" cy="1150" r="5" fill="#9d7cff"/><text x="850" y="1155" fill="#d2dce8">Improving Smart MCQ Solver with RAG</text>
+    <circle cx="833" cy="1184" r="5" fill="#53c7ff"/><text x="850" y="1189" fill="#d2dce8">Building my AI portfolio</text>
+    <circle cx="833" cy="1218" r="5" fill="#62e6a7"/><text x="850" y="1223" fill="#d2dce8">Exploring an independent startup idea</text>
+    <circle cx="833" cy="1252" r="5" fill="#64e572"/><text x="850" y="1257" fill="#d2dce8">Learning system design</text>
+  </g>
+  <text x="830" y="1288" fill="#8195aa" font-family="monospace" font-size="11">one concept at a time</text>
+
+  <!-- FOOTER -->
+  <rect x="22" y="1330" width="1156" height="38" rx="14" fill="#070d18" stroke="#284260"/>
+  <text x="46" y="1355" fill="#62e6a7" font-family="monospace" font-size="12">$ keep_learning()  →  keep_building()  →  make_an_impact()</text>
+  <text x="1150" y="1355" text-anchor="end" fill="#72859b" font-family="monospace" font-size="11">work in progress · always</text>
+</svg>
