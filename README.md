@@ -164,18 +164,6 @@ The questions I increasingly care about are **Does it work? Why does it work? Wh
 
 ---
 
-## 📈 Contribution field
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
-> A real contribution graph is more meaningful than manufactured streak commits. This profile does not use a daily cron job to create activity.
-
----
-
 ## 🎓 Beyond the code
 
 - **B.Tech Computer Science Engineering** — Maharaja Surajmal Institute of Technology · **9.45 CGPA**
